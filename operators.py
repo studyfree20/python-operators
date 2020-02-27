@@ -1,4 +1,5 @@
 #myarthmetic operators program code
+#Introducing my signature libraries and functions
 import hashlib
 import base64
 import urllib
@@ -69,7 +70,7 @@ print(mark1 <= mark2)
 
 #Logical Operators
 #Logical Operators // AND Returns True if both statements are true
-# returns True because 5 is greater than 3 AND 5 is less than 10
+
 x = 999
 
 print(x > 500 and x < 2000)
